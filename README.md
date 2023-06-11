@@ -7,7 +7,7 @@
 
 <div>
   <div>
-    <h4 style="margin:0;">Meus contatos</h4>
+    <h4>Meus contatos</h4>
   </div>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marcus-mazza-5a6497190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
