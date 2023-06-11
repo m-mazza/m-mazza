@@ -43,6 +43,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-<a href="https://github.com/m-mazza/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/m-mazza/">
   <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark#gh-dark-mode-only">
 </a>
