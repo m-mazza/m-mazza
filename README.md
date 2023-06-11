@@ -1,10 +1,17 @@
-### Marcus Mazza - Desenvolvedor Front-End Jr.
-
-Contatos:
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<div>
+  <h1>Marcus Mazza - Desenvolvedor Front-End Jr</h1>
 </div>
+
+<div>
+  <div>
+    <h4>Meus contatos</h4>
+  </div>
+  <a href="https://www.linkedin.com/in/marcus-mazza-5a6497190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5513981074396?text=Olá%20Marcus!%20Estava%20no%20seu%20github%20e%20resolvi%20entrar%20em%20contato%20com%20você">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</div>
+
 Linguagens:
 <div style="display: flex;">
   <!-- HTML 5 -->
@@ -16,6 +23,7 @@ Linguagens:
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
 Frameworks:
 <div style="display: flex;">
   <!-- JQuery -->
@@ -27,7 +35,3 @@ Frameworks:
   <!-- Laravel -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
-
-Histórico de atividades:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark">
