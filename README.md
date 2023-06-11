@@ -1,7 +1,6 @@
 <div>
   <h1>Marcus Mazza - Desenvolvedor Front-End Jr</h1>
 </div>
-
 <div>
   <div>
     <h4>Meus contatos</h4>
@@ -13,7 +12,7 @@
 </div>
 
 Linguagens:
-<div style="display: flex;">
+<div>
   <!-- HTML 5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <!-- CSS3 -->
