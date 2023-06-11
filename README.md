@@ -1,9 +1,13 @@
 <div>
   <h1>Marcus Mazza - Desenvolvedor Front-End Jr</h1>
+  <a href="https://github.com/m-mazza/">
+    <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark#gh-dark-mode-only">
+  </a>
 </div>
+
 <div>
   <div>
-    <h4>Meus contatos</h4>
+    <h4 style="margin:0;">Meus contatos</h4>
   </div>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marcus-mazza-5a6497190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,10 +17,9 @@
   </a>
 </div>
 
-
 <div>
   <div>
-    <h4>Linguagens e Tecnologias</h4>
+    <h4>Tecnologias</h4>
   </div>
   <!-- HTML 5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +30,6 @@
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
-
 
 <div>
   <div>
@@ -42,7 +44,3 @@
   <!-- Laravel -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
-
-<a href="https://github.com/m-mazza/">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark#gh-dark-mode-only">
-</a>
