@@ -1,7 +1,33 @@
 ### Marcus Mazza - Desenvolvedor Front-End Jr.
 
-Curioso, persistente, esforçado e determinado. Essas são as características que definem meu caráter. Acredito que toda habilidade pode ser criada e desenvolvida à partir da dedicação e treino. Assim sendo, me lanço aos desafios focado na constante melhoria e busca pela excelência. Minha capacidade de comunicação e de desenvolver uma dinâmica de compreenção mútua, também é um diferencial que venho cultivando com o passar dos anos.
+Contatos:
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</div>
+Linguagens:
+<div style="display: flex;">
+  <!-- HTML 5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- Javasrcript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
+Frameworks:
+<div style="display: flex;">
+  <!-- JQuery -->
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
+  <!-- Laravel -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
 
-Minha meta é ser desenvolvedor fullstack, para que independente do escopo de trabalho, sempre possar resolver os diversos desafios que envolvem a área de desenvolvimento de sistemas.
-
-![Marcus Mazza GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark)
+Histórico de atividades:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark">
