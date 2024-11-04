@@ -1,5 +1,5 @@
 <div>
-  <h1>Marcus Mazza - Desenvolvedor FullStack Jr</h1>
+  <h1>Marcus Mazza - Desenvolvedor FullStack</h1>
   <a href="https://github.com/m-mazza/">
     <img src="https://github-readme-stats.vercel.app/api?username=m-mazza&show_icons=true&theme=dark#gh-dark-mode-only">
   </a>
